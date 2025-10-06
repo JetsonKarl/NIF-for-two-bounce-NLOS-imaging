@@ -1,4 +1,4 @@
-We are urgently updating our dataset and dynamically displaying the results！！！！
+
 
 # Data
 
@@ -8,6 +8,8 @@ Code: bud8
 
 
 # Result
+
+We are urgently updating our dynamically displayed 360° results！！！！
 
 | Result 1 | Result 2 |  |
 |-------|-------|-----|
