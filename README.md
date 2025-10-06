@@ -7,14 +7,13 @@ URL: https://pan.baidu.com/s/1psyJFYBkB21WjiB5zdmzAA
 Code: bud8
 
 
-# Result
+# dynamically displayed 360° results and GT
 
-We are urgently updating our dynamically displayed 360° results！！！！
 
-| Result 1 | Result 2 |  |
+| Result 1 | GT 1 |  |
 |-------|-------|-----|
-| ![result_1](result_1.gif) | ![result_2](result_2.gif) |  |
+| ![result_1](result_1.gif) | ![gt_1](gt_1.gif) |  |
 
-| GT1 | GT2 |  |
+| Result 2 | GT2 |  |
 |-----|-----|-----|
-| updating | updating |  |
+| ![result_2](result_2.gif) | ![gt_2](gt_2.gif) |  |
