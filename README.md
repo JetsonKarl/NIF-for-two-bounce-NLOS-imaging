@@ -9,7 +9,7 @@ Code: bud8
 
 # Result
 
-| 结果1 | 结果2 |  |
+| Result 1 | Result 2 |  |
 |-------|-------|-----|
 | ![result_1](result_1.gif) | ![result_2](result_2.gif) |  |
 
